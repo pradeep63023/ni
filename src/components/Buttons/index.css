@@ -1,0 +1,18 @@
+.con {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 50%;
+}
+
+.butt {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+.im {
+  width: 150px;
+  height: 150px;
+}
